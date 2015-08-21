@@ -130,7 +130,7 @@ for x in 0...c {
 }
 ```
 
-For loops, often just called "loops", are foundational to programming. In this example above, we've looped over all the numbers from `0` to `c`, but you can loop over other things, too. Say we're making an app at Artsy that shows a bunch of artworks – we might loop over all the artworks to show them on the screen. 
+`for` loops, often just called "loops", are foundational to programming. In this example above, we've looped over all the numbers from `0` to `c`, but you can loop over other things, too. Say we're making an app at Artsy that shows a bunch of artworks – we might loop over all the artworks to show them on the screen. 
 
 If you hit the little triangle in the bottom left you can see the printed output!
 
